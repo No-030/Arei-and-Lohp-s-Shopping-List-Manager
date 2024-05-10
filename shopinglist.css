@@ -1,0 +1,53 @@
+body {
+    font-family: century, sans-serif;
+    background-color: ;
+    }
+#container {
+    max-width: 500px;
+    max-height: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 18%;
+    text-align: center;
+    padding: 20px;
+    background-color: whitesmoke;
+    border: 2px solid #18181a;
+    border-radius: 25px;
+}
+
+#listContainer {
+    max-width: 450px;
+    font-size: 12px;
+    max-height: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    text-align: left;
+    padding: 5px 1px;
+    background-color: white;
+    border: 2px solid #18181a;
+    border-radius: 20px;
+}
+
+button {
+    margin: 10px;
+    display: inline-block;
+    width: 5px;
+    height: 5px; 
+    border: none;
+    padding: 5px 5px 5px 5px;
+    background-color: solid white;
+    cursor: pointer;
+    margin-top: 10px;
+
+}
+
+input {
+    margin: 2px;
+    align-items: center;
+    border: 2px solid #18181a;
+    border-radius: 20px;
+    padding: 5px 15px;
+    background-color: solid white;
+
+}
